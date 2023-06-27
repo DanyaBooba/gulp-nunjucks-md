@@ -1,0 +1,23 @@
+{
+  "site": {
+    "title": "Example Site",
+    "url": "http://example.com"
+  },
+  "courses": {
+    "first": {
+        "name": "Example",
+        "url": "http://example.com",
+        "tags": ["Ex1", "Ex2", "Ex3"]
+    },
+    "second": {
+        "name": "Example",
+        "url": "http://example.com",
+        "tags": ["Ex1", "Ex2", "Ex3"]
+    },
+    "third": {
+        "name": "Example",
+        "url": "http://example.com",
+        "tags": ["Ex1", "Ex2", "Ex3"]
+    }
+  }
+}

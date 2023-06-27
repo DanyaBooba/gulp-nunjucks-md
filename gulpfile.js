@@ -7,6 +7,7 @@ gulp.task("default", function () {
 		.pipe(
 			nunjucksMd({
 				path: ["src/includes/"],
+				data: "src/data.json",
 			})
 		)
 		.pipe(gulp.dest("dist"));
