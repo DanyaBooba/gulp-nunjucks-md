@@ -17,6 +17,7 @@ data3: "example"
 <main class="container mt-5">
     <h2 class="main-title">Разработка на Unity</h2>
     <div class="row row-courses row-cols-1 row-cols-lg-3 g-3">
-        123
+        {% include "example.njk" %}
     </div>
+
 </main>
